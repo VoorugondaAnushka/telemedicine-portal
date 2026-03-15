@@ -1,4 +1,6 @@
 # 🏥 TeleMedAI — AI-Assisted Telemedicine Portal for Rural India
+AI-assisted telemedicine portal built with MERN stack enabling secure authentication, appointment booking, and analytics dashboard.
+
 ### Based on IEEE CISES 2025 Research Paper
 
 A full-stack MERN application (MongoDB + Express + React + Node.js) featuring:
