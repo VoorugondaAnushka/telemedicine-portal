@@ -13,6 +13,43 @@ A full-stack MERN application (MongoDB + Express + React + Node.js) featuring:
 Research-based data visualization
 ---
 
+🚀 Features
+
+- Secure JWT Authentication (Login / Register)
+
+- Role-based access control (Patient / Doctor / Admin)
+
+- Appointment booking and management
+
+- Research dashboard with analytics charts
+
+- Multilingual-ready interface for rural accessibility
+
+- Scalable MERN stack architecture
+
+🛠 Tech Stack
+Frontend
+
+- React.js
+
+- CSS
+
+- Recharts
+
+Backend
+
+- Node.js
+
+- Express.js
+
+Database
+
+- MongoDB
+
+Authentication
+
+JWT (JSON Web Tokens)
+
 ## 📁 Project Structure
 
 ```
